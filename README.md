@@ -2,6 +2,8 @@
 
 Granado Espada 공식 업데이트 공지에서 이벤트 정보를 정리하는 비공식 Windows 프로그램입니다.
 
+<img src="https://github.com/tokis-codex/GRANADO-ESPADA-EVENT-CHRONICLE/blob/main/preview.png">
+
 ## 배포 버전
 
 **v1.1.0** — GitHub 공개 릴리스용 버전 번호입니다. 개발 중 사용한 내부 패키지 번호 `v19`의 기능을 담았습니다.
